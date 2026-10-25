@@ -1,0 +1,4 @@
+interface:
+  display_name: "Technical Proposal"
+  short_description: "Branded technical proposals in PDF and animated HTML"
+  default_prompt: "Use $technical-proposal to create a branded technical proposal from my logo, client name, and scope."
